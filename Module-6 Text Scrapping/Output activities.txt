@@ -1,0 +1,7 @@
+Output activities
+
+Before diving into each of them, let's understand how these are different from input activities and methods.
+
+All the input methods are available for each input action, wherein all the output activities are somewhat matched with the output methods. For example: as the name suggests, 'Get OCR Text Activity', works only with the OCR output method.
+
+Below are the most important and frequently used output actions.
